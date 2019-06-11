@@ -1,6 +1,6 @@
 # benmercerdev.github.io
 
-**initial commit**
-Twitter @bp_mercer
-Github @benmercerdev
-Email: 
+**Contacts**
+Twitter: @bp_mercer
+Github: @benmercerdev
+Email: benmercerdev@gmail.com
