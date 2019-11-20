@@ -2,7 +2,7 @@ title: benmercerdev
 author: GitHub User
 email: benmercerdev@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  webiste to discuss cool coding stuffs
+  website to discuss cool coding stuffs
 show_excerpts: true # set to true to show excerpts on the homepage
 theme: texture
 remote_theme: thelehhman/texture
