@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "how to embed code on your blog posts"
+title:  "Google Colab love"
 description: changing a char to an int in Python and C++
-date:   2019-11-23 21:03:36 +0530
-categories: C++ Python
+date:   2020-04-22 21:03:36 +0530
+categories: Python Google Colab
 ---
 
 I love Google Colab. It's a cozy, platform-independent plate to get get started on using some of the coolest tools on the web.
